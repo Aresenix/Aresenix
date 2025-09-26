@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Jessica! This GitHub is to track and showcase what I've been learning in Cybersecurity/IT ever since August 2024 :) 
+This is a repository that is meant to be continuous and non-linear-- as I aim to develop fluency across technologies and communications.
 
 <!--
 **Aresenix/Aresenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
